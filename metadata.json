@@ -1,0 +1,6 @@
+{
+  "name": "DONET CELL - iPos 5 BRILink & PPOB",
+  "description": "Sistem Kasir iPos 5, Agen BRILink, Transaksi PPOB, Service HP, Stok Voucher, Utang Piutang, dan Laporan Akuntansi untuk DONET CELL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
